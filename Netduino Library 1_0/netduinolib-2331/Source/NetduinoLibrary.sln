@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetduinoLibrary", "NetduinoLibrary\NetduinoLibrary.csproj", "{87452E26-0478-439E-B60D-C1D3B6948637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6AF9C733-0E2A-4E96-BA92-6B461EDFD46F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs22
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NetduinoLibrary\\NetduinoLibrary.csproj
+		SccProjectName1 = NetduinoLibrary
+		SccLocalPath1 = NetduinoLibrary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87452E26-0478-439E-B60D-C1D3B6948637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87452E26-0478-439E-B60D-C1D3B6948637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87452E26-0478-439E-B60D-C1D3B6948637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87452E26-0478-439E-B60D-C1D3B6948637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
